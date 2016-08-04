@@ -1,0 +1,56 @@
+_repo: Silas-Marner_550
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Lewes, Marian Evans
+    - Cross, Marian Evans
+    - Cross, Mary Ann
+    - Lewes, M. E. (Marian Evans)
+    - Evans, Mary Anne
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: "Silas Marner: The Weaver of Raveloe is the third novel by George Eliot,\
+  \ published in 1861. An outwardly simple tale of a linen weaver, it is notable for\
+  \ its strong realism and its sophisticated treatment of a variety of issues ranging\
+  \ from religion to industrialisation to community.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '550'
+  wikidata: Q638327
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Weavers -- Fiction'
+- !lcsh 'Foundlings -- Fiction'
+- !lcsh 'Adopted children -- Fiction'
+- GITenberg
+title: Silas Marner
+url: http://www.gutenberg.org/ebooks/550
+wikipedia:
+- https://ar.wikisource.org/wiki/%D8%B3%D9%8A%D8%AF%D9%86%D8%A7_%D9%85%D8%AD%D9%85%D8%AF_%D8%B5%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%87_%D8%B9%D9%84%D9%8A%D9%87_%D9%88%D8%B3%D9%84%D9%85
+- https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%84%D8%A7%D8%B3_%D9%85%D8%A7%D8%B1%D9%86%D8%B1
+- https://nl.wikipedia.org/wiki/Silas_Marner
+- https://pt.wikipedia.org/wiki/Silas_Marner
+- https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%DB%8C%D9%84%D8%B3_%D9%85%D8%A7%D8%B1%D9%86%D8%B1
+- https://tl.wikipedia.org/wiki/Silas_Marner
+- https://de.wikipedia.org/wiki/Silas_Marner
+- https://fr.wikipedia.org/wiki/Silas_Marner
+- https://es.wikipedia.org/wiki/Silas_Marner
+- https://simple.wikipedia.org/wiki/Silas_Marner
+- https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%BF%E0%B2%B2%E0%B2%BE%E0%B2%B8%E0%B3%8D_%E0%B2%AE%E0%B2%BE%E0%B2%B0%E0%B3%8D%E0%B2%A8%E0%B2%B0%E0%B3%8D
+- https://en.wikipedia.org/wiki/Silas_Marner
+- https://it.wikipedia.org/wiki/Silas_Marner_(romanzo)
+- https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%9C%D7%A1_%D7%9E%D7%A8%D7%A0%D7%A8
