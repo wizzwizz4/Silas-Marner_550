@@ -1,5 +1,8 @@
 _repo: Silas-Marner_550
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eliot, George
@@ -19,6 +22,8 @@ description: "Silas Marner: The Weaver of Raveloe is the third novel by George E
   \ published in 1861. An outwardly simple tale of a linen weaver, it is notable for\
   \ its strong realism and its sophisticated treatment of a variety of issues ranging\
   \ from religion to industrialisation to community.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/550#Silas-Marner
 gutenberg_issued: '1996-06-01'
 gutenberg_type: Text
 identifiers:
